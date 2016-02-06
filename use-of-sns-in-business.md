@@ -12,7 +12,7 @@ Twitter も Facebook も GitHub も、それぞれ単体ではコンテンツ保
 ## ソリューション
 結果として考えられるソリューションは、とりあえず次のようなイメージ。
 
-1. gh-pages にコンテンツを置く。SNSシェア及びPull Requestへの誘導をつける。
+1. gh-pages にコンテンツを置く。そのコンテンツには、SNSシェア及びPull Requestへの誘導をつける。
 2. LinkedIn, Facebook, Twitter から上記 gh-pages へのリンクをつける。
 
 ### 緩衝帯の追加
