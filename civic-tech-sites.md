@@ -1,4 +1,4 @@
-# Noteworthy civic tech sites
+# Noteworthy civic tech government sites
 ## ロサンゼルス Los Angeles
 ### GeoHub
 - http://geohub.lacity.org
